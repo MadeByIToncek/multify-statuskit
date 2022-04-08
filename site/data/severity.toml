@@ -9,7 +9,7 @@
 [alerts]
   ok = "ok"
   planned-maintenance = "ok"
-  under-maintenance = "warning"
+  under-maintenance = "danger"
   degraded-performance = "warning"
   partial-outage = "warning"
   major-outage = "danger"
