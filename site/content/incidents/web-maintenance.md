@@ -3,7 +3,7 @@ title = "Maintenance of Web"
 date = 2022-04-03T19:33:20.000Z
 severity = "under-maintenance"
 affectedsystems = ["Web"]
-resolved = false
+resolved = true
 +++
 Multigames FFA is undergoing a major maintenance.
 
